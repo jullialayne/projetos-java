@@ -14,3 +14,17 @@ mvn -version
 
 -Instancia Projeto Maven Básico
 mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-maven -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
+
+#Comandos do dia a dia
+
+1. Compilar: compile
+mvn compile
+
+2. Testar: test
+mvn test
+
+3. Empacotar: package
+mvn package
+
+4. Limpar diretório de trabalho: clean
+mvn clean
