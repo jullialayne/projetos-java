@@ -28,3 +28,6 @@ mvn package
 
 4. Limpar diretório de trabalho:
 mvn clean
+
+# Buscar na internet modelos de projetos maven
+maven archetype list
