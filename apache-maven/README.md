@@ -17,14 +17,14 @@ mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-
 
 #Comandos do dia a dia
 
-1. Compilar: compile
+1. Compilar:
 mvn compile
 
-2. Testar: test
+2. Testar:
 mvn test
 
-3. Empacotar: package
+3. Empacotar:
 mvn package
 
-4. Limpar diretório de trabalho: clean
+4. Limpar diretório de trabalho:
 mvn clean
